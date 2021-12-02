@@ -1,4 +1,10 @@
-# next-js-11-registration-login-example
+# Hotspot-Experiment
+
+This is a landing page for an access point where information is obtained from the users of that access point for marketing purposes.
+
+This project takes inspiration on a project made by Jason Watmore:
+
+############################################################################
 
 Next.js 11 - User Registration and Login Example
 
